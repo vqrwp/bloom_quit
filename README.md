@@ -1,6 +1,6 @@
 # bloom_quit
 
-A new Flutter project.
+This will be my comeback after 5 years of not writing code. I want to create an application which will help to quit smoking by growing a tree. Every day you was brave and strong enough to not smoke your tree will growr bigger.
 
 ## Getting Started
 
